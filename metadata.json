@@ -1,0 +1,5 @@
+{
+  "name": "Pedal & Pause Package Finder",
+  "description": "An interactive quiz to recommend cycling packages based on user preferences, styled with custom brand colors.",
+  "requestFramePermissions": []
+}
